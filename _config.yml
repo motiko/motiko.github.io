@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Motiko
+tagline:             'Sharing anything that might be useful to others'
+description:         'Yet Another Salesforce Blog'
+url:                 http://motiko.github.io
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Moti Korets
+  url:               https://twitter.com/moti_kor
+  email:             moti.kor@gmail.com
+
+# Custom vars
+version:             1.0.0
