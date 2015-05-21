@@ -9,7 +9,7 @@ title:               Motiko
 tagline:             'Sharing anything that might be useful to others'
 description:         'Yet Another Salesforce Blog'
 url:                 http://motiko.github.io
-baseurl:             ''
+baseurl:             'http://motiko.github.io/'
 paginate:            5
 
 # About/contact
