@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               Moti Korets
 tagline:             'Yet Another Salesforce Blog'
-description:         'Writing about Apex development under Force.com platform and anything related'
+description:         'Apex development under Force.com platform and anything related'
 url:                 http://motiko.github.io
 baseurl:             ''
 paginate:            5
