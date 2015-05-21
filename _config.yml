@@ -8,8 +8,8 @@ relative_permalinks: true
 title:               Motiko
 tagline:             'Sharing anything that might be useful to others'
 description:         'Yet Another Salesforce Blog'
-url:                 http://motiko.github.io/
-baseurl:             http://motiko.github.io
+url:                 http://motiko.github.io
+baseurl:             ''
 paginate:            5
 
 # About/contact
